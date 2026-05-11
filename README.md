@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="artifacts/novault-agent/public/logofav.png" alt="Novault Agent" width="96" height="96" />
+<img src="/logofav.png" alt="Novault Agent" width="96" height="96" />
 
 # Novault Agent
 
